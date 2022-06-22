@@ -16,6 +16,7 @@ function data() {
 			img: "https://image.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-584655766.jpg",
 			release_Date: "7/7/2021",
 		},
+		
 		{
 			id: 3,
 			name: "Captain America: The First Avenger",
